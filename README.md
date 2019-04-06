@@ -25,6 +25,8 @@ The papers and results about RGB-T fusion tracking
 	   "Cross-Modal Ranking with Soft Consistency and Noisy Labels for Robust RGB-T Tracking." ECCV 2018.  
 - Xiangyuan Lan, Mang Ye, Shengping Zhang, Pong C. Yuen. 
 	   "Robust Collaborative Discriminative Learning for RGB-Infrared Tracking". AAAI 2018.
+- Yulong Wang, Chenglong Li, and Jin Tang.
+	“Learning Soft-Consistent Correlation Filters for RGB-T Object Tracking”. PRCV 2018.
 - Ningwen Xu, Gang Xiao, Xingchen Zhang, Durga Prasad Bavirisetti.
 	"Relative Object Tracking Algorithm Based on Convolutional Neural Network for Visible and Infrared Video Sequences". 4th International Conference on Virtual Reality, 2018
 - Chenglong Li, Nan Zhao, Yijuan Lu, Chengli Zhu, and Jin Tang. 
@@ -47,8 +49,10 @@ The papers and results about RGB-T fusion tracking
 		- Yabin Zhu, Chenglong Li, Yijuan Lu, Liang Lin, Bin Luo, Jin Tang.
 		“FANet : Quality-Aware Feature Aggregation Network for RGB-T Tracking”, 2018 (**PR/SR: 88.5/69.8**)
 		- Chenglong Li, Xiaohao Wu, Nan Zhao, Xiaochun Cao, and Jin Tang.
-	  "Fusing Two-Stream Convolutional Neural Networks for RGB-T Object Tracking". Neurocomputing (NEUCOM), 281: 78-85, 2018.[[paper][10]](**PR/SR:85.2/62.6. Threshold is 5 pixels**)
-	- Sulan Zhai, Pengpeng Shao, Xinyan Liang, Xin Wang.  
+			  "Fusing Two-Stream Convolutional Neural Networks for RGB-T Object Tracking". Neurocomputing (NEUCOM), 281: 78-85, 2018.[[paper][10]] (**PR/SR:85.2/62.6. Threshold is 5 pixels**)
+		- Yulong Wang, Chenglong Li, and Jin Tang.
+			“Learning Soft-Consistent Correlation Filters for RGB-T Object Tracking”. PRCV 2018.(**PR/SR: 85/68.1**)
+		- Sulan Zhai, Pengpeng Shao, Xinyan Liang, Xin Wang.  
 	   "Fast RGB-T Tracking via Cross-Modal Correlation Filters." Neurocomputing (2019).[[paper][11]] (**PR/SR:77/63.2**)
 - RGBT210
 	- Paper: Chenglong Li, Nan Zhao, Yijuan Lu, Chenglin  Zhu, Jin Tang.
@@ -82,11 +86,16 @@ The papers and results about RGB-T fusion tracking
 	Fusing two | 85.2 | 62.6 | 2018 | Li et al.  | DL-based | 15  |
 	Weighted   | 85.12| 62.8 | 2017 | Li et al.  |          |  5  |
 	Cross-modal| 82.7 | 64.3 | 2018 | Li et al.  |          |  8  |
-	Fast RGB-T | 77   | 63.2 | 2019 | Zhai et al.| CF-based | 234 |
+	Fast RGB-T | 77   | 63.2 | 2019 | Zhai et al.| CF-based | 227 |
+	SCCF       | 85   | 68.1 | 
 ### RGBT210
-
+	Name       | PR   | SR   | Year | Author     |  Type    | FPS |
+	Fast RGB-T | 52.9 | 36.6 | 2019 | Zhai et al.| CF-based | 227 |
 ### RGBT234
-
+	Name         | PR   | SR   | Year |Author       |  Type    | FPS |
+	SiamFT       | 65.9 | 44.8 | 2019 | Zhang et al.| DL-based | 25+ |
+	Multi-domain | 61.7 | 38.7 | 2018 | Zhang et al.| DL-based |     |
+	
 
 ## Distinguished Researchers & Teams
 - [Chenglong Li][19], Anhui University, China

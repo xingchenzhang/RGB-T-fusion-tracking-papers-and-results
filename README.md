@@ -63,7 +63,10 @@ The papers and results about RGB-T fusion tracking
 		  "SiamFT: A Feature-level Fusion Tracking Method Using Fully Convolutional Siamese Networks Based on Visible and Infrared Sequences". ICCV 2019 (submitted).(**PR/SR:65.0/44.3**)
 		-  Sulan Zhai, Pengpeng Shao, Xinyan Liang, Xin Wang.  
 			   "Fast RGB-T Tracking via Cross-Modal Correlation Filters." Neurocomputing (2019).[[paper][15]] (**PR/SR:52.9/36.3**)
-	- Results
+	- Papers using a part of this dataset
+		- Xiangyuan Lan,Mang Ye,Shengping Zhang,Pong C. Yuen. ”Robust Collaborative Discriminative Learning for RGB-Infrared Tracking”. AAAI 2018.
+		- Xiangyuan Lan, Mang Ye, Rui Shao, Bineng Zhong, Pong C. Yuen, and Huiyu Zhou. “Learning Modality-Consistency Feature Templates: A Robust RGB-Infrared Tracking System”. IEEE Transactions on Industrial Electronics, 2019.
+		- Xiangyuan Lan, Mang Ye, Shengping Zhang, Huiyu Zhou, Pong C. Yuen. “Modality-correlation-aware sparse representation for RGB-infrared object tracking”. Pattern Recognition Letters,2018.
 - RGBT234
 	- Paper: Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang.
 		“RGB-T Object Tracking:Benchmark and Baseline”, ArXiv, 2018. Submitted to Pattern Recognition (PR), 2019. [[paper][16]][[project][17]]
@@ -83,23 +86,30 @@ The papers and results about RGB-T fusion tracking
 ### GTOT
 	Name       | PR   | SR   | Year | Author     |  Type    | FPS |
 	FANet      | 88.5 | 69.8 | 2018 | Li et al.  | DL-based | 1.3 |
-	Fusing two | 85.2 | 62.6 | 2018 | Li et al.  | DL-based | 15  |
-	Weighted   | 85.12| 62.8 | 2017 | Li et al.  |          |  5  |
+	SCCF       | 85   | 68.1 | 2018 | Li et al.  | CF-based | 50  |
+	LGMG       | 82.9 | 65.5 | 2018 | Li et al.  |          |  7  |
 	Cross-modal| 82.7 | 64.3 | 2018 | Li et al.  |          |  8  |
 	Fast RGB-T | 77   | 63.2 | 2019 | Zhai et al.| CF-based | 227 |
-	SCCF       | 85   | 68.1 | 
+	Weighted   | 85.12| 62.8 | 2017 | Li et al.  |          |  5  |
+	Fusing two | 85.2 | 62.6 | 2018 | Li et al.  | DL-based | 15  |
+	Two stage  | 84.2 | 62.2 | 2018 | Li et al.  |          | 7   |
 ### RGBT210
 	Name       | PR   | SR   | Year | Author     |  Type    | FPS |
+	LGMG       | 71.1 | 46.8 | 2018 | Li et al.  |          |  7  |
+	SiamFT     | 65.0 | 44.3 | 2019 |Zhang et al.| DL-bsed  | 25+ | 
 	Fast RGB-T | 52.9 | 36.6 | 2019 | Zhai et al.| CF-based | 227 |
+	
+	
 ### RGBT234
 	Name         | PR   | SR   | Year |Author       |  Type    | FPS |
+	SGT          | 72.0 | 47.2 | 2018 | Li et al.   |          | 
 	SiamFT       | 65.9 | 44.8 | 2019 | Zhang et al.| DL-based | 25+ |
 	Multi-domain | 61.7 | 38.7 | 2018 | Zhang et al.| DL-based |     |
-	
+	SiamFC_RGT   | 61.0 | 42.8 | 2019 | Zhang et al.| DL-based |    |
 
 ## Distinguished Researchers & Teams
 - [Chenglong Li][19], Anhui University, China
-- Xiangyuan Lan
+- Xiangyuan Lan,Hong Kong Baptist University, Hongkong, China
 
 [1]:	https://www.sciencedirect.com/science/article/pii/S0925231219300347
 [2]:	https://ieeexplore.ieee.org/document/8643077

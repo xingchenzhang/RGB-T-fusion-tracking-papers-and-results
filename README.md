@@ -3,6 +3,8 @@ The papers and results about RGB-T fusion tracking
 
 ## Papers
 ### Journal papers
+- Xiangyuan Lan, Mang Ye, Rui Shan, Bineng Zhong, Deepak Kumar Jain, Huiyu Zhou  
+	“Online non-negative multi-modality feature template learning for RGB-assisted infrared tracking”. IEEE Access, 2019.
 - Chengwei Luo, Bin Sun, Ke Yang, Taoran Lu, Wei-Chang Yeh.  
 	  “Thermal infrared and visible sequences fusion tracking based on a hybrid tracking framework with adaptive weighting scheme”. Infrared Physics & Technology, 2019. (only use a part of RGBT234.)
 - Sulan Zhai, Pengpeng Shao, Xinyan Liang, Xin Wang.  
@@ -65,7 +67,6 @@ The papers and results about RGB-T fusion tracking
 	 "Enhanced target tracking through infrared-visible image fusion". Fusion 2011.
 - Huaping Liu, Fuchun Sun.  
 - "Fusion tracking in color and infrared images using sequential belief propagation". Proceedings - IEEE International Conference on Robotics and Automation, 2008.
-	  
 ### ArXiv
 - Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang.  
 	“RGB-T Object Tracking:Benchmark and Baseline”, 2018

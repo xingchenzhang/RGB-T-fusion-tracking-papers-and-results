@@ -4,7 +4,7 @@ The papers and results about RGB-T fusion tracking
 ## Papers
 ### Journal papers
 - Xiangyuan Lan, Mang Ye, Rui Shan, Bineng Zhong, Deepak Kumar Jain, Huiyu Zhou  
-	“Online non-negative multi-modality feature template learning for RGB-assisted infrared tracking”. IEEE Access, 2019. [\[paper]]()
+	“Online non-negative multi-modality feature template learning for RGB-assisted infrared tracking”. IEEE Access, 2019. ([paper][1])
 - Chengwei Luo, Bin Sun, Ke Yang, Taoran Lu, Wei-Chang Yeh.  
 	  “Thermal infrared and visible sequences fusion tracking based on a hybrid tracking framework with adaptive weighting scheme”. Infrared Physics & Technology, 2019. (only use a part of RGBT234.)
 - Sulan Zhai, Pengpeng Shao, Xinyan Liang, Xin Wang.  
@@ -161,6 +161,7 @@ The papers and results about RGB-T fusion tracking
 - [Chenglong Li][21], Anhui University, China
 - Xiangyuan Lan,Hong Kong Baptist University, Hongkong, China
 
+[1]:	https://ieeexplore.ieee.org/document/8713854
 [2]:	https://www.sciencedirect.com/science/article/pii/S0925231219300347
 [3]:	https://ieeexplore.ieee.org/document/8643077
 [4]:	https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8485393

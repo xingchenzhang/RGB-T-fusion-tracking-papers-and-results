@@ -6,39 +6,39 @@ The papers and results about RGB-T fusion tracking
 - Xiangyuan Lan, Mang Ye, Rui Shan, Bineng Zhong, Deepak Kumar Jain, Huiyu Zhou  
 	“Online non-negative multi-modality feature template learning for RGB-assisted infrared tracking”. IEEE Access, 2019. ([paper][1])
 - Chengwei Luo, Bin Sun, Ke Yang, Taoran Lu, Wei-Chang Yeh.  
-	  “Thermal infrared and visible sequences fusion tracking based on a hybrid tracking framework with adaptive weighting scheme”. Infrared Physics & Technology, 2019. (only use a part of RGBT234.)
+	  “Thermal infrared and visible sequences fusion tracking based on a hybrid tracking framework with adaptive weighting scheme”. Infrared Physics & Technology, 2019. (only use a part of RGBT234.)([paper][2])
 - Sulan Zhai, Pengpeng Shao, Xinyan Liang, Xin Wang.  
-	"Fast RGB-T Tracking via Cross-Modal Correlation Filters." Neurocomputing (2019).[[paper][2]]
+	"Fast RGB-T Tracking via Cross-Modal Correlation Filters." Neurocomputing (2019).[[paper][3]]
 - Xiangyuan Lan, Mang Ye, Rui Shao, Bineng Zhong, Pong C.Yuen, Huiyu Zhou.  
-	  "Learning Modality-Consistency Feature Templates: A Robust RGB-Infrared Tracking System."IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS (2019).[[paper][3]]
+	  "Learning Modality-Consistency Feature Templates: A Robust RGB-Infrared Tracking System."IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS (2019).[[paper][4]]
 - Chenglong Li, Chengli Zhu, Jian Zhang, Bin Luo, Xiaohao Wu, and Jin Tang.  
-	  "Learning Local-Global Multi-Graph Descriptors for RGB-T Object Tracking". IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), (2019).[[paper][4]] (**FPS: 0.7**)
+	  "Learning Local-Global Multi-Graph Descriptors for RGB-T Object Tracking". IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), (2019).[[paper][5]] (**FPS: 0.7**)
 - Xiangyuan Lan, Mang Ye, Shengping Zhang, Huiyu Zhou, Pong C. Yuen.  
-	  "Modality-correlation-aware sparse representation for RGB-infrared object tracking".Pattern Recognition Letters, 2019
+	  "Modality-correlation-aware sparse representation for RGB-infrared object tracking".Pattern Recognition Letters, 2019 ([paper][6])
 - Keyan Ren, Xiao Zhang, Yu Han, Yibin Hou.  
-	   "Robust night target tracking via infrared and visible video fusion". Applications of Digital Image Processing, 2018. (**asynchronous VI and IR videos**)
+	   "Robust night target tracking via infrared and visible video fusion". Applications of Digital Image Processing, 2018. (**asynchronous VI and IR videos**)([paper][7])
 - Chenglong Li, Xiaohao Wu, Nan Zhao, Xiaochun Cao, and Jin Tang.  
-	  "Fusing Two-Stream Convolutional Neural Networks for RGB-T Object Tracking". Neurocomputing (NEUCOM), 281: 78-85, 2018.[[paper][5]]
+	  "Fusing Two-Stream Convolutional Neural Networks for RGB-T Object Tracking". Neurocomputing (NEUCOM), 281: 78-85, 2018.[[paper][8]]
 - Chenglong Li, Chengli Zhu, Shaofei Zheng, Bin Luo, and Jin Tang.  
-	  "Two-Stage Modality-Graphs Regularized Manifold Ranking for RGB-T Tracking". Signal Processing: Image Communication (SPIC), 68: 207-217, 2018. [[paper][6]]
+	  "Two-Stage Modality-Graphs Regularized Manifold Ranking for RGB-T Tracking". Signal Processing: Image Communication (SPIC), 68: 207-217, 2018. [[paper][9]]
 - Chenglong Li, Xiang Sun, Xiao Wang, Lei Zhang, and Jin Tang.  
-	  "Grayscale-thermal Object Tracking via Multi-task Laplacian Sparse Representation". IEEE Transactions on Systems, Man, and Cybernetics: Systems (T-SMCS), 47(4): 673-681, 2017.[[paper][7]]
+	  "Grayscale-thermal Object Tracking via Multi-task Laplacian Sparse Representation". IEEE Transactions on Systems, Man, and Cybernetics: Systems (T-SMCS), 47(4): 673-681, 2017.[[paper][10]]
 - Meng Ding, Yao Yuheng, Li Wei, Yunfeng Cao.  
-	  "Visual tracking using Locality-constrained Linear Coding and saliency map for visible light and infrared image sequences". Signal Processing: Image Communication, 2018.
+	  "Visual tracking using Locality-constrained Linear Coding and saliency map for visible light and infrared image sequences". Signal Processing: Image Communication, 2018.([paper][11])
 - Chenglong Li, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, Liang Lin.  
-	    “Learning Collaborative Sparse Representation for Grayscale-Thermal Tracking”,  IEEE Transactions on Image Processing (T-IP), 25(12): 5743-5756, 2016. [[paper][8]]
+	    “Learning Collaborative Sparse Representation for Grayscale-Thermal Tracking”,  IEEE Transactions on Image Processing (T-IP), 25(12): 5743-5756, 2016. [[paper][12]]
 - Xiao Yun, Zhongliang Jing, Bo Jin.
- "Visible and infrared tracking based on multi-view multi-kernel fusion model". Optical Review, 2016.
+	"Visible and infrared tracking based on multi-view multi-kernel fusion model". Optical Review, 2016.([paper][13])
 - Xiao YUN, Zhongliang JING, Gang XIAO, Bo JIN, Canlong ZHANG.  
-	 "A compressive tracking based on time-space Kalman fusion model". Science China Information Sciences, 2016.
+	 "A compressive tracking based on time-space Kalman fusion model". Science China Information Sciences, 2016.([paper][14])
 - Supriya Mangale, Madhuri Khambete.  
-	 "Camouflaged target detection and tracking using thermal infrared and visible spectrum imaging". Advances in Intelligent Systems and Computing, 2016.
+	 "Camouflaged target detection and tracking using thermal infrared and visible spectrum imaging". Advances in Intelligent Systems and Computing, 2016.([paper][15])
 - Alex Lipchen Chan, Stephen R. Schnelle.  
-	 "Fusing concurrent visible and infrared videos for improved tracking performance". Optical Engineering, 2013.
+	 "Fusing concurrent visible and infrared videos for improved tracking performance". Optical Engineering, 2013.([paper][16])
 - Huaping Liu, Fuchun Sun.  
-	 "Fusion tracking in color and infrared images using joint sparse representation". Science China Information Sciences, 2012.
+	 "Fusion tracking in color and infrared images using joint sparse representation". Science China Information Sciences, 2012.([paper][17])
 - Alex Lipchen Chan, Stephen R. Schnelle.  
-	 "Target tracking using concurrent visible and infrared imageries". SPIE, 2012.
+	 "Target tracking using concurrent visible and infrared imageries". SPIE, 2012.([paper][18])
 
 ### Conference papers
 - Xingming Zhang, Xuehan Zhang, Xuedan Du, Xiangming Zhou, Jun Yin.  
@@ -81,17 +81,17 @@ The papers and results about RGB-T fusion tracking
 ## Datasets and benchmark
 - GTOT
 	- Paper: Chenglong Li, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, Liang Lin.  
-		“Learning Collaborative Sparse Representation for Grayscale-Thermal Tracking”,  IEEE Transactions on Image Processing (T-IP), 25(12): 5743-5756, 2016. [[paper][9]]
-	- Download Link [[Google drive][10]] [[Baidu Cloud][11]]
+		“Learning Collaborative Sparse Representation for Grayscale-Thermal Tracking”,  IEEE Transactions on Image Processing (T-IP), 25(12): 5743-5756, 2016. [[paper][19]]
+	- Download Link [[Google drive][20]] [[Baidu Cloud][21]]
 	- Papers using this dataset
 		- Yabin Zhu, Chenglong Li, Yijuan Lu, Liang Lin, Bin Luo, Jin Tang.  
 			“FANet : Quality-Aware Feature Aggregation Network for RGB-T Tracking”, 2018 (**PR/SR: 88.5/69.8**)
 		- Chenglong Li, Xiaohao Wu, Nan Zhao, Xiaochun Cao, and Jin Tang.  
-			  "Fusing Two-Stream Convolutional Neural Networks for RGB-T Object Tracking". Neurocomputing (NEUCOM), 281: 78-85, 2018.[[paper][12]] (**PR/SR:85.2/62.6. Threshold is 5 pixels**)
+			  "Fusing Two-Stream Convolutional Neural Networks for RGB-T Object Tracking". Neurocomputing (NEUCOM), 281: 78-85, 2018.[[paper][22]] (**PR/SR:85.2/62.6. Threshold is 5 pixels**)
 		- Yulong Wang, Chenglong Li, and Jin Tang.  
 			“Learning Soft-Consistent Correlation Filters for RGB-T Object Tracking”. PRCV 2018.(**PR/SR: 85/68.1**)
 		- Sulan Zhai, Pengpeng Shao, Xinyan Liang, Xin Wang.  
-			   "Fast RGB-T Tracking via Cross-Modal Correlation Filters." Neurocomputing (2019).[[paper][13]] (**PR/SR:77/63.2**)
+			   "Fast RGB-T Tracking via Cross-Modal Correlation Filters." Neurocomputing (2019).[[paper][23]] (**PR/SR:77/63.2**)
 	- Papers using a part of this dataset
 		- Xiangyuan Lan, Mang Ye, Shengping Zhang, Pong C. Yuen.  
 			“Robust Collaborative Discriminative Learning for RGB-Infrared Tracking”. AAAI 2018.
@@ -101,19 +101,19 @@ The papers and results about RGB-T fusion tracking
 			“Modality-correlation-aware sparse representation for RGB-infrared object tracking”. Pattern Recognition Letters,2018.
 - RGBT210
 	- Paper: Chenglong Li, Nan Zhao, Yijuan Lu, Chenglin  Zhu, Jin Tang.  
-		“Weighted Sparse Representation Regularized Graph Learning for RGB-T Object Tracking”, ACM International Conference on Multimedia (ACM MM), 2017. [[paper][14]]
-	- Download Link [[Google drive][15]][[Baidu Cloud][16]]
+		“Weighted Sparse Representation Regularized Graph Learning for RGB-T Object Tracking”, ACM International Conference on Multimedia (ACM MM), 2017. [[paper][24]]
+	- Download Link [[Google drive][25]][[Baidu Cloud][26]]
 	- Papers using this dataset
 		- **Xingchen Zhang**, Gang Xiao, Ping Ye, Dan Qiao, Shengyun Peng.  
 			  "SiamFT: A Feature-level Fusion Tracking Method Using Fully Convolutional Siamese Networks Based on Visible and Infrared Sequences". ICCV 2019 (submitted).(**PR/SR:65.0/44.3**)
 		-  Sulan Zhai, Pengpeng Shao, Xinyan Liang, Xin Wang.  
-			   "Fast RGB-T Tracking via Cross-Modal Correlation Filters." Neurocomputing (2019).[[paper][17]] (**PR/SR:52.9/36.3**)
+			   "Fast RGB-T Tracking via Cross-Modal Correlation Filters." Neurocomputing (2019).[[paper][27]] (**PR/SR:52.9/36.3**)
 		- Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, Liang Wang.  
 			   "Cross-Modal Ranking with Soft Consistency and Noisy Labels for Robust RGB-T Tracking." ECCV 2018. (**PR/SR: 69.4/46.3**) 
 - RGBT234
 	- Paper: Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang.  
-		“RGB-T Object Tracking:Benchmark and Baseline”, ArXiv, 2018. Submitted to Pattern Recognition (PR), 2019. [[paper][18]][[project][19]]
-	- Download Link [[Google drive][20]]
+		“RGB-T Object Tracking:Benchmark and Baseline”, ArXiv, 2018. Submitted to Pattern Recognition (PR), 2019. [[paper][28]][[project][29]]
+	- Download Link [[Google drive][30]]
 	- Papers using this dataset
 		- Yabin Zhu, Chenglong Li, Yijuan Lu, Liang Lin, Bin Luo, Jin Tang.  
 			“FANet : Quality-Aware Feature Aggregation Network for RGB-T Tracking”, 2018 (**PR/SR: 76.4/53.2**)
@@ -158,27 +158,37 @@ The papers and results about RGB-T fusion tracking
 
 
 ## Distinguished Researchers & Teams
-- [Chenglong Li][21], Anhui University, China
+- [Chenglong Li][31], Anhui University, China
 - Xiangyuan Lan,Hong Kong Baptist University, Hongkong, China
 
 [1]:	https://ieeexplore.ieee.org/document/8713854
-[2]:	https://www.sciencedirect.com/science/article/pii/S0925231219300347
-[3]:	https://ieeexplore.ieee.org/document/8643077
-[4]:	https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8485393
-[5]:	https://www.sciencedirect.com/science/article/pii/S0925231217318271
-[6]:	https://www.sciencedirect.com/science/article/pii/S0923596518304892
-[7]:	https://link.springer.com/chapter/10.1007%2F978-3-319-27674-8_6
-[8]:	https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7577747
-[9]:	https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7577747
-[10]:	https://docs.google.com/uc?id=0B-Z6TyBF2ceIZ0c1anVhaHQ3MFk&export=download
-[11]:	https://pan.baidu.com/s/1QNidEo-HepRaS6OIZr7-Cw
-[12]:	https://www.sciencedirect.com/science/article/pii/S0925231217318271
-[13]:	https://www.sciencedirect.com/science/article/pii/S0925231219300347
-[14]:	https://dl.acm.org/citation.cfm?id=3123289
-[15]:	https://drive.google.com/file/d/0B3i2rdXLNbdUTkhsLVRwcTBTMlU/view
-[16]:	https://pan.baidu.com/s/1qXDAq0O#list/path=%2F
-[17]:	https://www.sciencedirect.com/science/article/pii/S0925231219300347
-[18]:	https://arxiv.org/pdf/1805.08982.pdf
-[19]:	https://sites.google.com/view/ahutracking001/
-[20]:	(https://drive.google.com/open?id=1ouNEptXOgRop4U7zYMK9zAp57SZ2XCNL)
-[21]:	http://cs.ahu.edu.cn/7d/82/c11202a163202/page.htm
+[2]:	https://www.sciencedirect.com/science/article/pii/S1350449519300258
+[3]:	https://www.sciencedirect.com/science/article/pii/S0925231219300347
+[4]:	https://ieeexplore.ieee.org/document/8643077
+[5]:	https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8485393
+[6]:	https://www.sciencedirect.com/science/article/pii/S0167865518307633
+[7]:	https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10752/1075206/Robust-night-target-tracking-via-infrared-and-visible-video-fusion/10.1117/12.2320450.full?SSO=1
+[8]:	https://www.sciencedirect.com/science/article/pii/S0925231217318271
+[9]:	https://www.sciencedirect.com/science/article/pii/S0923596518304892
+[10]:	https://link.springer.com/chapter/10.1007%2F978-3-319-27674-8_6
+[11]:	https://www.sciencedirect.com/science/article/pii/S0923596518302510
+[12]:	https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7577747
+[13]:	https://link.springer.com/article/10.1007/s10043-015-0175-5
+[14]:	https://link.springer.com/article/10.1007/s11432-015-5356-0
+[15]:	https://link.springer.com/chapter/10.1007/978-3-319-47952-1_15
+[16]:	https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-52/issue-1/017004/Fusing-concurrent-visible-and-infrared-videos-for-improved-tracking-performance/10.1117/1.OE.52.1.017004.full
+[17]:	https://link.springer.com/article/10.1007/s11432-011-4536-9
+[18]:	https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8392/83920P/Target-tracking-using-concurrent-visible-and-infrared-imageries/10.1117/12.918373.full
+[19]:	https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7577747
+[20]:	https://docs.google.com/uc?id=0B-Z6TyBF2ceIZ0c1anVhaHQ3MFk&export=download
+[21]:	https://pan.baidu.com/s/1QNidEo-HepRaS6OIZr7-Cw
+[22]:	https://www.sciencedirect.com/science/article/pii/S0925231217318271
+[23]:	https://www.sciencedirect.com/science/article/pii/S0925231219300347
+[24]:	https://dl.acm.org/citation.cfm?id=3123289
+[25]:	https://drive.google.com/file/d/0B3i2rdXLNbdUTkhsLVRwcTBTMlU/view
+[26]:	https://pan.baidu.com/s/1qXDAq0O#list/path=%2F
+[27]:	https://www.sciencedirect.com/science/article/pii/S0925231219300347
+[28]:	https://arxiv.org/pdf/1805.08982.pdf
+[29]:	https://sites.google.com/view/ahutracking001/
+[30]:	(https://drive.google.com/open?id=1ouNEptXOgRop4U7zYMK9zAp57SZ2XCNL)
+[31]:	http://cs.ahu.edu.cn/7d/82/c11202a163202/page.htm

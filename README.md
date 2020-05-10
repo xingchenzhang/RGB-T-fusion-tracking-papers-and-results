@@ -5,7 +5,8 @@ This this the webpage which lists the papers, datasets and results in the field 
 
 ### Recommendations
 - Xingchen Zhang, Ping Ye, Henry Leung, Ke Gong, Gang Xiao.  
-  Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review. Information Fusion, 2020.
+  **Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review**. Information Fusion, 2020.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253520302657)]  
+
   
 ### 2020
 

@@ -1,5 +1,26 @@
 # RGB-T fusion tracking：papers，datasets & results
-This this the webpage which lists the papers, datasets and results in the field of RGB-T fusion tracking.
+A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
+
+
+## Table of Contents
+- [Papers](#Papers)
+  - [Recommendations](#Recommendations)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2017](#2017)
+  - [2016](#2016)
+  - [Before 2016](#before-2016)
+- [Datasets and benchmark](#datasets-and-benchmark)
+  - [GTOT](#gtot)
+  - [RGBT210](#rgbt210)
+  - [RGBT234](#rgbt234)
+- [Results](#results)
+  - [GTOT](#gtot)
+  - [RGBT210](#rgbt210)
+  - [RGBT234](#rgbt234)  
+- [VOT-RGBT Challenge](#vot-rgbt-challenge)
+  - [2019](#2019)
 
 ## Papers
 
@@ -141,6 +162,9 @@ This this the webpage which lists the papers, datasets and results in the field 
 	SiamFT       | 65.9 | 44.8 | 2019 | Zhang et al.| DL-based | 25+ |
 	SiamFC_RGT   | 61.0 | 42.8 | 2019 | Zhang et al.| DL-based |     |  
 	Multi-domain | 61.7 | 38.7 | 2018 | Zhang et al.| DL-based |     |
+
+## VOT-RGBT Challenge
+###2019
 
 
 [1]:	https://ieeexplore.ieee.org/document/8713854

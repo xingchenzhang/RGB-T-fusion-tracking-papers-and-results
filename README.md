@@ -1,7 +1,6 @@
 # RGB-T fusion tracking：papers，datasets & results
 A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 
-
 ## Table of Contents
 - [Papers](#Papers)
   - [Recommendations](#Recommendations)
@@ -30,7 +29,14 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 
   
 ### 2020
-
+- Zhengzheng Tu, Chun Lin, Chenglong Li, Jin Tang, Bin Luo.  
+  "M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking". arXiv:2003.07650, 2020. [[paper](https://arxiv.org/abs/2003.07650)]
+- Hui Zhang, Lei Zhang, Li Zhuo, Jing Zhang.  
+  "Object tracking in RGB-T videos using modal-aware attention network and competitive learning". Sensors, 2020. [[paper](https://www.mdpi.com/1424-8220/20/2/393)]
+- Yabin Zhu, Chenglong Li, Jin Tang, Bin Luo.  
+  "Quality-aware Feature Aggregation Network for Robust RGBT Tracking". IEEE Transactions on Intelligent Vehicles, 2020. [[paper](https://ieeexplore.ieee.org/abstract/document/9035457)]
+- Xiangyuan Lan, Mang Ye, Shengping Zhang, Huiyu Zhou, Pong C. Yuen.  
+	  "Modality-correlation-aware sparse representation for RGB-infrared object tracking".Pattern Recognition Letters, 2020. [[paper][6]]
 
 ### 2019
 - Xiangyuan Lan, Mang Ye, Rui Shan, Bineng Zhong, Deepak Kumar Jain, Huiyu Zhou  
@@ -43,8 +49,6 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 	  "Learning Modality-Consistency Feature Templates: A Robust RGB-Infrared Tracking System."IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS 2019.[[paper][4]]
 - Chenglong Li, Chengli Zhu, Jian Zhang, Bin Luo, Xiaohao Wu, and Jin Tang.  
 	  "Learning Local-Global Multi-Graph Descriptors for RGB-T Object Tracking". IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2019.[[paper][5]]
-- Xiangyuan Lan, Mang Ye, Shengping Zhang, Huiyu Zhou, Pong C. Yuen.  
-	  "Modality-correlation-aware sparse representation for RGB-infrared object tracking".Pattern Recognition Letters, 2019 ([paper][6])
 - Rui Yang, Yabin Zhu, Xiao Wang, Chenglong Li \*, and Jin Tang.  
 	  “Learning Target-oriented Dual Attention for Robust RGB-T Tracking”. IEEE International Conference on Image Processing (ICIP), 2019.
 
@@ -111,7 +115,8 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 - "Fusion tracking in color and infrared images using sequential belief propagation". Proceedings - IEEE International Conference on Robotics and Automation, 2008.
 
 
-### Multispectral person detection (may give some idea to fusion tracking)
+### Other papers
+#### Multispectral person detection (may give some ideas to fusion tracking)
 - Daniel K¨onig, Michael Adam, Christian Jarvers, Georg Layher, Heiko Neumann, and Michael Teutsch.  
 	 "Fully Convolutional Region Proposal Networks for Multispectral Person Detection". CVPR 2017.
 
@@ -164,7 +169,7 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 	Multi-domain | 61.7 | 38.7 | 2018 | Zhang et al.| DL-based |     |
 
 ## VOT-RGBT Challenge
-###2019
+### 2019
 
 
 [1]:	https://ieeexplore.ieee.org/document/8713854

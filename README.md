@@ -31,7 +31,6 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 - Xingchen Zhang, Ping Ye, Henry Leung, Ke Gong, Gang Xiao.  
 	  **Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review**. **Information Fusion**, 2020.[[paper][19]]
 
-	  
 ### 2020
 - Xingchen Zhang, Ping Ye, Shengyun Peng, Jun Liu, Gang Xiao  
 	  "DSiamMFT: An RGB-T fusion tracking method via dynamic Siamese networks using multi-layer feature fusion", Signal Processing: Image Communication, 2020. [[paper][20]]
@@ -171,17 +170,17 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 - **GTOT**
 	- Paper: Chenglong Li, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, Liang Lin.  
 		“Learning Collaborative Sparse Representation for Grayscale-Thermal Tracking”,  IEEE Transactions on Image Processing (T-IP), 25(12): 5743-5756, 2016. [[paper][74]]
-	- Download Link [[Google drive][75]] [[Baidu Cloud][76]]
+	- Download Link [[Google drive][75]] [[Baidu Cloud][76]][]()
 
 - **RGBT210**
 	- Paper: Chenglong Li, Nan Zhao, Yijuan Lu, Chenglin  Zhu, Jin Tang.  
-		“Weighted Sparse Representation Regularized Graph Learning for RGB-T Object Tracking”, ACM International Conference on Multimedia (ACM MM), 2017. [[paper][77]]
-	- Download Link [[Google drive][78]][[Baidu Cloud][79]]
+		“Weighted Sparse Representation Regularized Graph Learning for RGB-T Object Tracking”, ACM International Conference on Multimedia (ACM MM), 2017. [[paper][78]]
+	- Download Link [[Google drive][79]][[Baidu Cloud][80]]
 
 - **RGBT234**
 	- Paper: Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang.  
-		“RGB-T Object Tracking:Benchmark and Baseline”, ArXiv, 2018. Submitted to Pattern Recognition (PR), 2019. [[paper][80]][[project][81]]
-	- Download Link [[Google drive][82]]
+		“RGB-T Object Tracking:Benchmark and Baseline”, ArXiv, 2018. Submitted to Pattern Recognition (PR), 2019. [[paper][81]][[project][82]]
+	- Download Link [[Google drive][83]]
 
 ## Results
 ### GTOT
@@ -294,9 +293,9 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 [74]:	https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7577747
 [75]:	https://docs.google.com/uc?id=0B-Z6TyBF2ceIZ0c1anVhaHQ3MFk&export=download
 [76]:	https://pan.baidu.com/s/1QNidEo-HepRaS6OIZr7-Cw
-[77]:	https://dl.acm.org/citation.cfm?id=3123289
-[78]:	https://drive.google.com/file/d/0B3i2rdXLNbdUTkhsLVRwcTBTMlU/view
-[79]:	https://pan.baidu.com/s/1qXDAq0O#list/path=%2F
-[80]:	https://arxiv.org/pdf/1805.08982.pdf
-[81]:	https://sites.google.com/view/ahutracking001/
-[82]:	(https://drive.google.com/open?id=1ouNEptXOgRop4U7zYMK9zAp57SZ2XCNL)
+[78]:	https://dl.acm.org/citation.cfm?id=3123289
+[79]:	https://drive.google.com/file/d/0B3i2rdXLNbdUTkhsLVRwcTBTMlU/view
+[80]:	https://pan.baidu.com/s/1qXDAq0O#list/path=%2F
+[81]:	https://arxiv.org/pdf/1805.08982.pdf
+[82]:	https://sites.google.com/view/ahutracking001/
+[83]:	(https://drive.google.com/open?id=1ouNEptXOgRop4U7zYMK9zAp57SZ2XCNL)

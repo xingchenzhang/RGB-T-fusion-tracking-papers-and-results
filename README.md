@@ -29,11 +29,13 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 
 ### Review paper
 - Xingchen Zhang, Ping Ye, Henry Leung, Ke Gong, Gang Xiao.  
-	  **Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review**. **Information Fusion**, 2020.[[paper][19]]
+	  **Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review**. **Information Fusion**, vol.63, pp.166-187,2020.[[paper][19]]
 
 ### 2020
 - Xingchen Zhang, Ping Ye, Shengyun Peng, Jun Liu, Gang Xiao  
 	  "DSiamMFT: An RGB-T fusion tracking method via dynamic Siamese networks using multi-layer feature fusion", Signal Processing: Image Communication, 2020. [[paper][20]]
+- Xingchen Zhang, Ping Ye, Henry Leung, Ke Gong, Gang Xiao.  
+	  "Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review". **Information Fusion**, 2020.[[paper][29]] 
 - Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang  
 	  "Jointly Modeling Motion and Appearance Cues for Robust RGB-T Tracking", arXiv:2007.02041. [[paper][21]]
 - Chenglong Li, Lei Liu, Andong Lu, Qing Ji, and Jin Tang  
@@ -50,8 +52,11 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 	  "Quality-aware Feature Aggregation Network for Robust RGBT Tracking". IEEE Transactions on Intelligent Vehicles, 2020. [[paper][27]]
 - Xiangyuan Lan, Mang Ye, Shengping Zhang, Huiyu Zhou, Pong C. Yuen.  
 	  "Modality-correlation-aware sparse representation for RGB-infrared object tracking".Pattern Recognition Letters, 2020. [[paper][28]]
-- Xingchen Zhang, Ping Ye, Henry Leung, Ke Gong, Gang Xiao.  
-	  Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review. **Information Fusion**, 2020.[[paper][29]]  
+- Andong Liu, Chenglong Li, Yuqing Yan, Jin Tang, Bin Luo.  
+	"RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss". arXiv:2011.07189, 2020. [[paper](https://arxiv.org/abs/2011.07189)]
+- Andong Liu, Cun Qian, Chenglong Li, Jin Tang, Bin Luo.  
+	"Duality-Gated Mutual Condition Network for RGBT Tracking". arXiv:2011.07188, 2020. [[paper](https://arxiv.org/abs/2011.07188)]
+ 
 
 ### 2019
 - Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, Jin Tang  

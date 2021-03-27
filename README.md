@@ -7,7 +7,7 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 
 ## Table of Contents
 - [Papers][1]
-  - [Review][2]
+  - [Review paper][2]
   - [2020][3]
   - [2019][4]
   - [2018][5]

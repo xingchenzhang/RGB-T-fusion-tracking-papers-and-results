@@ -27,7 +27,7 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 
 ## Papers
 
-### Review paper
+### Review
 - Xingchen Zhang, Ping Ye, Henry Leung, Ke Gong, Gang Xiao.  
 	  **Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review**. **Information Fusion**, vol.63, pp.166-187,2020.[[paper][19]]
 

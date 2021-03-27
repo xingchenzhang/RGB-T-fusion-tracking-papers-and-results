@@ -7,7 +7,7 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 
 ## Table of Contents
 - [Papers][1]
-  - [Review paper][2]
+  - [Review][2]
   - [2020][3]
   - [2019][4]
   - [2018][5]
@@ -30,6 +30,11 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 ### Review paper
 - Xingchen Zhang, Ping Ye, Henry Leung, Ke Gong, Gang Xiao.  
 	  **Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review**. **Information Fusion**, vol.63, pp.166-187,2020.[[paper][19]]
+
+### 2021
+- Qin Xu, Yiming Mei, Jinpei Liu, Chenglong Li  
+"Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking", IEEE Transactions on Multimedia, 2021.
+
 
 ### 2020
 - Xingchen Zhang, Ping Ye, Shengyun Peng, Jun Liu, Gang Xiao  
@@ -223,7 +228,7 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 
 
 [1]:	#Papers
-[2]:	#Recommendations
+[2]:	#Review
 [3]:	#2020
 [4]:	#2019
 [5]:	#2018

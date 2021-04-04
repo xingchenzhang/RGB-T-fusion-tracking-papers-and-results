@@ -28,39 +28,65 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 ## Papers
 
 ### Review
-- Xingchen Zhang, Ping Ye, Henry Leung, Ke Gong, Gang Xiao.  
+1. Xingchen Zhang, Ping Ye, Henry Leung, Ke Gong, Gang Xiao.  
 	  **Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review**. **Information Fusion**, vol.63, pp.166-187,2020.[[paper][19]]
 
-### 2021
-- Qin Xu, Yiming Mei, Jinpei Liu, Chenglong Li  
-"Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking", IEEE Transactions on Multimedia, 2021.
 
+### 2021
+#### Journal
+1. Qin Xu, Yiming Mei, Jinpei Liu, Chenglong Li  
+"Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking", IEEE Transactions on Multimedia, 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9340007?casa_token=2J66RsN_jAQAAAAA:f6O-OSYp3Hwco_zzTP7175Oq35qaFNRvgX29LqMfjfO7Ya4vAHCCkuNJabgtoOusYTaH89kB)]
+
+2. Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang  
+"Jointly Modeling Motion and Appearance Cues for Robust RGB-T Tracking", IEEE TCSVT, Vol. 30, 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9364880?casa_token=ETbE6iP5zpgAAAAA:KvjZeam43Lg-m1GdgIusD6_4nDNsNOn8pWCtel5W-vy4JVY3KfUm8QZsP3T-qR41CVLPV43Q)]
+
+3. Yabin Zhu, Chenglong Li, Jin Tang, Bin Luo, Liang Wang.  
+"RGBT Tracking by Trident Fusion Network", IEEE TCSVT, 2021.
+
+
+#### arXiv
+1. Jingchao Peng, Haitao Zhao, Zhengwei Hu, Yi Zhuang, Bofan Zhang.  
+**Siamese Infrared and Visible Light Fusion Network for RGB-T tracking**, arXiv, 2021. [[Paper](https://arxiv.org/abs/2103.07302)]
 
 ### 2020
-- Xingchen Zhang, Ping Ye, Shengyun Peng, Jun Liu, Gang Xiao  
+#### Journal
+1. Xingchen Zhang, Ping Ye, Shengyun Peng, Jun Liu, Gang Xiao  
 	  "DSiamMFT: An RGB-T fusion tracking method via dynamic Siamese networks using multi-layer feature fusion", Signal Processing: Image Communication, 2020. [[paper][20]]
-- Xingchen Zhang, Ping Ye, Henry Leung, Ke Gong, Gang Xiao.  
-	  "Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review". **Information Fusion**, 2020.[[paper][29]] 
-- Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang  
-	  "Jointly Modeling Motion and Appearance Cues for Robust RGB-T Tracking", arXiv:2007.02041. [[paper][21]]
-- Chenglong Li, Lei Liu, Andong Lu, Qing Ji, and Jin Tang  
-	  "Challenge-Aware RGBT Tracking". **ECCV 2020**. [[paper][22]]
-- Chaoqun Wang, Chunyan Xu, Zhen Cui, Ling Zhou, Tong Zhang, Xiaoya Zhang, Jian Yang  
-	  "Cross-Modal Pattern-Propagation for RGB-T Tracking".**CVPR 2020**.[[paper][23]]
-- Mingzheng Feng, Kechen Song, Yanyan Wang, Jie Liu, Yunhui Yan.  
+
+2. Xingchen Zhang, Ping Ye, Henry Leung, Ke Gong, Gang Xiao.  
+	  "Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review". Information Fusion, 2020.[[paper][29]] 
+	 
+3. Mingzheng Feng, Kechen Song, Yanyan Wang, Jie Liu, Yunhui Yan.  
 	  "Learning Discriminative Update Adaptive Spatial-Temporal Regularized Correlation Filter for RGB-T Tracking", Journal of Visual Communication and Image Representation,2020.[[paper][24]]
-- Zhengzheng Tu, Chun Lin, Chenglong Li, Jin Tang, Bin Luo.  
-	  "M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking". arXiv:2003.07650, 2020. [[paper][25]]
-- Hui Zhang, Lei Zhang, Li Zhuo, Jing Zhang.  
+
+4. Hui Zhang, Lei Zhang, Li Zhuo, Jing Zhang.  
 	  "Object tracking in RGB-T videos using modal-aware attention network and competitive learning". Sensors, 2020. [[paper][26]]
-- Yabin Zhu, Chenglong Li, Jin Tang, Bin Luo.  
+
+5. Yabin Zhu, Chenglong Li, Jin Tang, Bin Luo.  
 	  "Quality-aware Feature Aggregation Network for Robust RGBT Tracking". IEEE Transactions on Intelligent Vehicles, 2020. [[paper][27]]
-- Xiangyuan Lan, Mang Ye, Shengping Zhang, Huiyu Zhou, Pong C. Yuen.  
+
+6. Xiangyuan Lan, Mang Ye, Shengping Zhang, Huiyu Zhou, Pong C. Yuen.  
 	  "Modality-correlation-aware sparse representation for RGB-infrared object tracking".Pattern Recognition Letters, 2020. [[paper][28]]
-- Andong Liu, Chenglong Li, Yuqing Yan, Jin Tang, Bin Luo.  
+	  
+7. Mengzheng Feng, Kechen Song, Yanyan Wang, Jie Liu, Yunhui Yan.  
+"Learning Discriminative Update Adaptive Spatial-Temporal Regularized Correlation Filter for RGB-T Tracking", Journal of Visual Communication and Image Representation, Vol. 72, 2020.	  	  
+	  
+#### Conference
+1. Chenglong Li, Lei Liu, Andong Lu, Qing Ji, and Jin Tang  
+	  "Challenge-Aware RGBT Tracking". ECCV 2020. [[paper][22]]
+2. Chaoqun Wang, Chunyan Xu, Zhen Cui, Ling Zhou, Tong Zhang, Xiaoya Zhang, Jian Yang  
+	  "Cross-Modal Pattern-Propagation for RGB-T Tracking".CVPR 2020.[[paper][23]]	  
+	  
+	  
+#### arXiv	  
+1. Andong Lu, Cun Qian, Chenglong Li, Jin Tang, Liang Wang.  
+     "Duality-Gated Mutual Condition Network for RGBT tracking", arXiv, 2020. [[Paper](https://arxiv.org/abs/2011.07188)]
+
+2. Zhengzheng Tu, Chun Lin, Chenglong Li, Jin Tang, Bin Luo.  
+	  "M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking". arXiv:2003.07650, 2020. [[paper][25]]
+
+3. Andong Liu, Chenglong Li, Yuqing Yan, Jin Tang, Bin Luo.  
 	"RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss". arXiv:2011.07189, 2020. [[paper](https://arxiv.org/abs/2011.07189)]
-- Andong Liu, Cun Qian, Chenglong Li, Jin Tang, Bin Luo.  
-	"Duality-Gated Mutual Condition Network for RGBT Tracking". arXiv:2011.07188, 2020. [[paper](https://arxiv.org/abs/2011.07188)]
  
 
 ### 2019

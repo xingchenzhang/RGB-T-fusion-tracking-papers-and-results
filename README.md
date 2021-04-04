@@ -39,7 +39,7 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 "Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking", IEEE Transactions on Multimedia, 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9340007?casa_token=2J66RsN_jAQAAAAA:f6O-OSYp3Hwco_zzTP7175Oq35qaFNRvgX29LqMfjfO7Ya4vAHCCkuNJabgtoOusYTaH89kB)]
 
 2. Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang  
-"Jointly Modeling Motion and Appearance Cues for Robust RGB-T Tracking", IEEE TCSVT, Vol. 30, 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9364880?casa_token=ETbE6iP5zpgAAAAA:KvjZeam43Lg-m1GdgIusD6_4nDNsNOn8pWCtel5W-vy4JVY3KfUm8QZsP3T-qR41CVLPV43Q)]
+"Jointly Modeling Motion and Appearance Cues for Robust RGB-T Tracking", IEEE TIP, Vol. 30, 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9364880?casa_token=ETbE6iP5zpgAAAAA:KvjZeam43Lg-m1GdgIusD6_4nDNsNOn8pWCtel5W-vy4JVY3KfUm8QZsP3T-qR41CVLPV43Q)]
 
 3. Yabin Zhu, Chenglong Li, Jin Tang, Bin Luo, Liang Wang.  
 "RGBT Tracking by Trident Fusion Network", IEEE TCSVT, 2021.

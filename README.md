@@ -8,6 +8,7 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 ## Table of Contents
 - [Papers][1]
   - [Review paper][2]
+  - [2021](#2021) 
   - [2020][3]
   - [2019][4]
   - [2018][5]
@@ -46,7 +47,7 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 
 #### arXiv
 1. Jingchao Peng, Haitao Zhao, Zhengwei Hu, Yi Zhuang, Bofan Zhang.  
-**Siamese Infrared and Visible Light Fusion Network for RGB-T tracking**, arXiv, 2021. [[Paper](https://arxiv.org/abs/2103.07302)]
+Siamese Infrared and Visible Light Fusion Network for RGB-T tracking, arXiv, 2021. [[Paper](https://arxiv.org/abs/2103.07302)]
 
 ### 2020
 #### Journal
@@ -90,92 +91,135 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
  
 
 ### 2019
-- Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, Jin Tang  
-	  "Multi-adapter rgbt tracking." ICCVW, 2019. [[paper][30]]
-- Matej Kristan et al.  
-	  "The Seventh Visual Object Tracking VOT2019 Challenge Results", ICCVW, 2019. [[paper][31]]
-- Yuan Gao, Chenglong Li, Yabin Zhu, Jin Tang, Tao He, Futian Wang  
-	  "Deep adaptive fusion network for high performance rgbt tracking." ICCVW, 2019. [[paper][32]]
-- Lichao Zhang, Martin Danelljan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan  
-	  "Multi-modal fusion for end-to-end rgb-t tracking." ICCVW. 2019. [[paper][33]]
-- Xiao Yun , Yanjing Sun , Xuanxuan Yang, and Nannan Lu  
+#### Journal
+1. Xiao Yun , Yanjing Sun , Xuanxuan Yang, and Nannan Lu  
 	   "Discriminative fusion correlation learning for visible and infrared tracking." Mathematical Problems in Engineering, 2019. [[paper][34]]
-- Bin Kang , Dong Liang , Wan Ding, Huiyu Zhou, and Wei-Ping Zhu  
-	  "Grayscale-Thermal Tracking via Inverse Sparse Representation-Based Collaborative Encoding." **IEEE Transactions on Image Processing**, 2019. [[paper][35]]
-- Stephane Vujasinovic, Stefan Becker, Norbert Scherer-Negenborn, and Michael Arens  
-	  "Impact of Fused Visible-Infrared Video Streams on Visual Tracking." Iberian Conference on Pattern Recognition and Image Analysis. 2019. [[paper][36]]
-- Chengwei Luo, Bin Suna, Ke Yanga, Taoran Lua, Wei-Chang Yeh  
+
+2. Bin Kang , Dong Liang , Wan Ding, Huiyu Zhou, and Wei-Ping Zhu  
+	  "Grayscale-Thermal Tracking via Inverse Sparse Representation-Based Collaborative Encoding." IEEE Transactions on Image Processing, 2019. [[paper][35]]
+
+
+3. Chengwei Luo, Bin Suna, Ke Yanga, Taoran Lua, Wei-Chang Yeh  
 	  "Thermal infrared and visible sequences fusion tracking based on a hybrid tracking framework with adaptive weighting scheme." Infrared Physics & Technology, 2019.[[paper][37]]
-- Yabin Zhu, Chenglong Li, Jin Tang, Bin Luo, Xiao Wang  
-	  "Dense feature aggregation and pruning for rgbt tracking." **ACM MM**. 2019.[[paper][38]]
-- Xiangyuan Lan, Wei Zhang, Shengping Zhang, Deepak Kumar Jain, Huiyu Zhou  
-	 "Robust Multi-modality Anchor Graph-based Label Prediction for RGB-Infrared Tracking", **IEEE Transactions on Industrial Informatics**, 2019. [[paper][39]]
-- Xingchen Zhang, Ping Ye, Shengyun Peng, Jun Liu, Ke Gong, Gang Xiao  
+	  
+4. Xiangyuan Lan, Wei Zhang, Shengping Zhang, Deepak Kumar Jain, Huiyu Zhou  
+	 "Robust Multi-modality Anchor Graph-based Label Prediction for RGB-Infrared Tracking", IEEE Transactions on Industrial Informatics, 2019. [[paper][39]]
+
+5. Xingchen Zhang, Ping Ye, Shengyun Peng, Jun Liu, Ke Gong, Gang Xiao  
 	  "SiamFT: An RGB-infrared fusion tracking method via fully convolutional siamese networks." IEEE Access, 2019.[[paper][40]]
-- Xingchen Zhang, Ping Ye, Dan Qiao, Junhao Zhao, Shengyun Peng, Gang Xiao  
-	  "Object fusion tracking based on visible and infrared images using fully convolutional siamese networks." International Conference on Information Fusion (FUSION), 2019. [[paper][41]]
-- Singh, Satbir, Arun Khosla, and Rajiv Kapoor.  
+	  
+6. Singh, Satbir, Arun Khosla, and Rajiv Kapoor.  
 	  "Object Tracking with a Novel Visual-Thermal Sensor Fusion Method in Template Matching." International Journal of Image, Graphics and Signal Processing, 2019.[[paper][42]]
-- Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, Jin Tang  
-	  "RGB-T object tracking: Benchmark and baseline", **Pattern Recognition**, 2019. [[paper][43]]
-- Can-Long Zhang, Yan-Ping Tang, Zhi-Xin Lia, Zhi-Wen Wang  
+
+7. Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, Jin Tang  
+	  "RGB-T object tracking: Benchmark and baseline", Pattern Recognition, 2019. [[paper][43]]
+
+8. Can-Long Zhang, Yan-Ping Tang, Zhi-Xin Lia, Zhi-Wen Wang  
 	  "Joint spatiograms for multi-modality tracking with online update", Pattern Recognition Letters, 2019.[[paper][44]]
-- Xiangyuan Lan, Mang Ye, Rui Shan, Bineng Zhong, Deepak Kumar Jain, Huiyu Zhou  
+
+9. Xiangyuan Lan, Mang Ye, Rui Shan, Bineng Zhong, Deepak Kumar Jain, Huiyu Zhou  
 	“Online non-negative multi-modality feature template learning for RGB-assisted infrared tracking”. IEEE Access, 2019. [[paper][45]]
-- Chengwei Luo, Bin Sun, Ke Yang, Taoran Lu, Wei-Chang Yeh.  
+
+10. Chengwei Luo, Bin Sun, Ke Yang, Taoran Lu, Wei-Chang Yeh.  
 	  “Thermal infrared and visible sequences fusion tracking based on a hybrid tracking framework with adaptive weighting scheme”. Infrared Physics & Technology, 2019. [[paper][46]]
-- Sulan Zhai, Pengpeng Shao, Xinyan Liang, Xin Wang.  
+
+11. Sulan Zhai, Pengpeng Shao, Xinyan Liang, Xin Wang.  
 	"Fast RGB-T Tracking via Cross-Modal Correlation Filters." Neurocomputing, 2019.[[paper][47]]
-- Xiangyuan Lan, Mang Ye, Rui Shao, Bineng Zhong, Pong C.Yuen, Huiyu Zhou.  
-	  "Learning Modality-Consistency Feature Templates: A Robust RGB-Infrared Tracking System." **IEEE Transactions on Industrial Electronics**, 2019.[[paper][48]]
-- Chenglong Li, Chengli Zhu, Jian Zhang, Bin Luo, Xiaohao Wu, and Jin Tang.  
-	  "Learning Local-Global Multi-Graph Descriptors for RGB-T Object Tracking". **IEEE Transactions on Circuits and Systems for Video Technology**, 2019.[[paper][49]]
-- Rui Yang, Yabin Zhu, Xiao Wang, Chenglong Li \*, and Jin Tang.  
+
+12. Xiangyuan Lan, Mang Ye, Rui Shao, Bineng Zhong, Pong C.Yuen, Huiyu Zhou.  
+	  "Learning Modality-Consistency Feature Templates: A Robust RGB-Infrared Tracking System." IEEE Transactions on Industrial Electronics, 2019.[[paper][48]]
+
+13. Chenglong Li, Chengli Zhu, Jian Zhang, Bin Luo, Xiaohao Wu, and Jin Tang.  
+	  "Learning Local-Global Multi-Graph Descriptors for RGB-T Object Tracking". IEEE Transactions on Circuits and Systems for Video Technology, 2019.[[paper][49]]	  	  
+
+#### Conference
+1. Xingchen Zhang, Ping Ye, Dan Qiao, Junhao Zhao, Shengyun Peng, Gang Xiao  
+	  "Object fusion tracking based on visible and infrared images using fully convolutional siamese networks." International Conference on Information Fusion (FUSION), 2019. [[paper][41]]
+
+2. Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, Jin Tang  
+	  "Multi-adapter rgbt tracking." ICCVW, 2019. [[paper][30]]
+
+3. Matej Kristan et al.  
+	  "The Seventh Visual Object Tracking VOT2019 Challenge Results", ICCVW, 2019. [[paper][31]]
+
+4. Yuan Gao, Chenglong Li, Yabin Zhu, Jin Tang, Tao He, Futian Wang  
+	  "Deep adaptive fusion network for high performance rgbt tracking." ICCVW, 2019. [[paper][32]]
+
+5. Lichao Zhang, Martin Danelljan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan  
+	  "Multi-modal fusion for end-to-end rgb-t tracking." ICCVW. 2019. [[paper][33]]
+
+6. Stephane Vujasinovic, Stefan Becker, Norbert Scherer-Negenborn, and Michael Arens  
+	  "Impact of Fused Visible-Infrared Video Streams on Visual Tracking." Iberian Conference on Pattern Recognition and Image Analysis. 2019. [[paper][36]]
+
+7. Yabin Zhu, Chenglong Li, Jin Tang, Bin Luo, Xiao Wang  
+	  "Dense feature aggregation and pruning for rgbt tracking." **ACM MM**. 2019.[[paper][38]]
+
+8. Rui Yang, Yabin Zhu, Xiao Wang, Chenglong Li \*, and Jin Tang.  
 	  “Learning Target-oriented Dual Attention for Robust RGB-T Tracking”. IEEE International Conference on Image Processing (ICIP), 2019.[[paper][50]]
 
 ### 2018
-
-- Keyan Ren, Xiao Zhang, Yu Han, Yibin Hou.  
+#### Journal
+1. Keyan Ren, Xiao Zhang, Yu Han, Yibin Hou.  
 	   "Robust night target tracking via infrared and visible video fusion". Applications of Digital Image Processing, 2018. (asynchronous VI and IR videos)[[paper][51]]
-- Chenglong Li, Xiaohao Wu, Nan Zhao, Xiaochun Cao, and Jin Tang.  
+
+2. Chenglong Li, Xiaohao Wu, Nan Zhao, Xiaochun Cao, and Jin Tang.  
 	  "Fusing Two-Stream Convolutional Neural Networks for RGB-T Object Tracking". Neurocomputing (NEUCOM), 281: 78-85, 2018.[[paper][52]]
-- Chenglong Li, Chengli Zhu, Shaofei Zheng, Bin Luo, and Jin Tang.  
+
+3. Chenglong Li, Chengli Zhu, Shaofei Zheng, Bin Luo, and Jin Tang.  
 	  "Two-Stage Modality-Graphs Regularized Manifold Ranking for RGB-T Tracking". Signal Processing: Image Communication (SPIC), 68: 207-217, 2018. [[paper][53]]
-- Meng Ding, Yao Yuheng, Li Wei, Yunfeng Cao.  
+
+4. Meng Ding, Yao Yuheng, Li Wei, Yunfeng Cao.  
 	  "Visual tracking using Locality-constrained Linear Coding and saliency map for visible light and infrared image sequences". Signal Processing: Image Communication, 2018.[[paper][54]]
-- Xingming Zhang, Xuehan Zhang, Xuedan Du, Xiangming Zhou, Jun Yin.  
+
+
+
+#### Conference
+1. Xingming Zhang, Xuehan Zhang, Xuedan Du, Xiangming Zhou, Jun Yin.  
 	 "Learning Multi-domain Convolutional Network for RGB-T Visual Tracking." CISP-BMEI, 2018. [[paper][55]]
-- Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, Liang Wang.  
+
+2. Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, Liang Wang.  
 	   "Cross-Modal Ranking with Soft Consistency and Noisy Labels for Robust RGB-T Tracking." **ECCV 2018**.[[paper][56]]  
-- Xiangyuan Lan, Mang Ye, Shengping Zhang, Pong C. Yuen.  
+
+3. Xiangyuan Lan, Mang Ye, Shengping Zhang, Pong C. Yuen.  
 	   "Robust Collaborative Discriminative Learning for RGB-Infrared Tracking". **AAAI 2018**.
-- Yulong Wang, Chenglong Li, and Jin Tang.  
+
+4. Yulong Wang, Chenglong Li, and Jin Tang.  
 	“Learning Soft-Consistent Correlation Filters for RGB-T Object Tracking”. PRCV 2018.[[paper][57]]
-- Ningwen Xu, Gang Xiao, Xingchen Zhang, Durga Prasad Bavirisetti.  
+
+5. Ningwen Xu, Gang Xiao, Xingchen Zhang, Durga Prasad Bavirisetti.  
 	"Relative Object Tracking Algorithm Based on Convolutional Neural Network for Visible and Infrared Video Sequences". 4th International Conference on Virtual Reality, 2018. [[paper][58]]
-- Ningwen Xu, Gang Xiao, Fang He, Xingchen Zhang, Durga Prasad Bavirisetti.  
+
+6. Ningwen Xu, Gang Xiao, Fang He, Xingchen Zhang, Durga Prasad Bavirisetti.  
 	"Object Tracking via Deep Multi-View Compressive Model for Visible and Infrared Sequences". Fusion 2018. [[paper][59]]
-- Chengwei Luo, Bin Sun, Qiao Deng, Zihao Wang, Dengwei Wang.  
+
+7. Chengwei Luo, Bin Sun, Qiao Deng, Zihao Wang, Dengwei Wang.  
 	    "Comparison of Different Level Fusion Schemes for Infrared-Visible Object Tracking: An Experimental Survey". 2018 2nd International Conference on Robotics and Automation Sciences. [[paper][60]]
 
 ### 2017
-
-- Chenglong Li, Xiang Sun, Xiao Wang, Lei Zhang, and Jin Tang.  
+#### Journal
+1. Chenglong Li, Xiang Sun, Xiao Wang, Lei Zhang, and Jin Tang.  
 	  "Grayscale-thermal Object Tracking via Multi-task Laplacian Sparse Representation". **IEEE Transactions on Systems, Man, and Cybernetics: Systems (T-SMCS)**, 47(4): 673-681, 2017.[[paper][61]]
-- Chenglong Li, Nan Zhao, Yijuan Lu, Chengli Zhu, and Jin Tang.  
+
+#### Conference
+1. Chenglong Li, Nan Zhao, Yijuan Lu, Chengli Zhu, and Jin Tang.  
 	   "Weighted Sparse Representation Regularized Graph Learning for RGB-T Object Tracking". **ACM International Conference on Multimedia (ACM MM)**, 2017.
 
 ### 2016
-
-- Chenglong Li, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, Liang Lin.  
+#### Journal
+1. Chenglong Li, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, Liang Lin.  
 	    “Learning Collaborative Sparse Representation for Grayscale-Thermal Tracking”,  **IEEE Transactions on Image Processing**, 25(12): 5743-5756, 2016. [[paper][62]]
-- Xiao Yun, Zhongliang Jing, Bo Jin.
+
+2. Xiao Yun, Zhongliang Jing, Bo Jin.
 	"Visible and infrared tracking based on multi-view multi-kernel fusion model". Optical Review, 2016.[[paper][63]]
-- Xiao Yun, Zhongliang Jing, Gang Xiao, Bo Jin, Canlong Zhang.  
+
+3. Xiao Yun, Zhongliang Jing, Gang Xiao, Bo Jin, Canlong Zhang.  
 	 "A compressive tracking based on time-space Kalman fusion model". Science China Information Sciences, 2016.[[paper][64]]
-- Supriya Mangale, Madhuri Khambete.  
+
+4. Supriya Mangale, Madhuri Khambete.  
 	 "Camouflaged target detection and tracking using thermal infrared and visible spectrum imaging". Advances in Intelligent Systems and Computing, 2016.[[paper][65]]
-- Chenglong Li, Shiyi Hu, Sihan Gao, and Jin Tang.  
+
+#### Conference
+1. Chenglong Li, Shiyi Hu, Sihan Gao, and Jin Tang.  
 	   "Real-time Grayscale-thermal Tracking  via Laplacian Sparse Representation". International Conference on Multimedia Modelling (MMM), Miami, 2016. [[paper][66]]
 
 ### Before 2016

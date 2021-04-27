@@ -44,6 +44,9 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 3. Yabin Zhu, Chenglong Li, Jin Tang, Bin Luo, Liang Wang.  
 "RGBT Tracking by Trident Fusion Network", IEEE TCSVT, 2021.
 
+4. Tianlu Zhang, Xueru Liu, Qiang Zhang, Jungong Han.  
+"SiamCDA: Complementarity- and distractor-aware RGB-T tracking based on Siamese network", IEEE TCSVT, 2021.
+
 
 #### arXiv
 1. Jingchao Peng, Haitao Zhao, Zhengwei Hu, Yi Zhuang, Bofan Zhang.  

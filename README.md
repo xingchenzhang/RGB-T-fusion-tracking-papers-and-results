@@ -268,6 +268,11 @@ Siamese Infrared and Visible Light Fusion Network for RGB-T tracking, arXiv, 202
 		“RGB-T Object Tracking:Benchmark and Baseline”, ArXiv, 2018. Submitted to Pattern Recognition (PR), 2019. [[paper][81]][[project][82]]
 	- Download Link [[Google drive](https://drive.google.com/open?id=1ouNEptXOgRop4U7zYMK9zAp57SZ2XCNL)]
 
+- **LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking**
+	- Paper: Chenglong Li, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang. 
+	"LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking" 
+	- Link [[Github](https://github.com/BUGPLEASEOUT/LasHeR)]
+
 ## Results
 ### GTOT
 	Name       | PR   | SR   | Year | Author     |  Type    | FPS |

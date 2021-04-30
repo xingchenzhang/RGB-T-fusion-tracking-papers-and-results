@@ -16,15 +16,17 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
   - [2016][7]
   - [Before 2016][8]
 - [Datasets and benchmark][9]
-  - [GTOT][10]
-  - [RGBT210][11]
-  - [RGBT234][12]
+  - [GTOT](#GTOT)
+  - [RGBT210](#RGBT210)
+  - [RGBT234](#RGBT234)
+  - [LasHeR](#LasHeR)  
 - [Results][13]
-  - [GTOT][14]
-  - [RGBT210][15]
-  - [RGBT234][16]  
+  - [GTOT](#GTOT-Results) 
+  - [RGBT210](#RGBT210-Results) 
+  - [RGBT234](#RGBT234-Results) 
 - [VOT-RGBT Challenge][17]
-  - [2019][18]
+  - [2020](#VOT-RGBT-2020) 
+  - [2019](#VOT-RGBT-2019) 
 
 ## Papers
 
@@ -253,28 +255,28 @@ Siamese Infrared and Visible Light Fusion Network for RGB-T tracking, arXiv, 202
 
 
 ## Datasets and benchmark
-- **GTOT**
-	- Paper: Chenglong Li, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, Liang Lin.  
-		“Learning Collaborative Sparse Representation for Grayscale-Thermal Tracking”,  IEEE Transactions on Image Processing (T-IP), 25(12): 5743-5756, 2016. [[paper][74]]
-	- Download Link [[Google drive][75]] [[Baidu Cloud][76]][]()
+### GTOT
+- Paper: Chenglong Li, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, Liang Lin.  
+   “Learning Collaborative Sparse Representation for Grayscale-Thermal Tracking”,  IEEE Transactions on Image Processing (T-IP), 25(12): 5743-5756, 2016. [[paper][74]]
+- Download Link [[Google drive][75]] [[Baidu Cloud][76]][]()
 
-- **RGBT210**
-	- Paper: Chenglong Li, Nan Zhao, Yijuan Lu, Chenglin  Zhu, Jin Tang.  
-		“Weighted Sparse Representation Regularized Graph Learning for RGB-T Object Tracking”, ACM International Conference on Multimedia (ACM MM), 2017. [[paper][78]]
-	- Download Link [[Google drive][79]][[Baidu Cloud][80]]
+### RGBT210
+- Paper: Chenglong Li, Nan Zhao, Yijuan Lu, Chenglin  Zhu, Jin Tang.  
+   “Weighted Sparse Representation Regularized Graph Learning for RGB-T Object Tracking”, ACM International Conference on Multimedia (ACM MM), 2017. [[paper][78]]
+- Download Link [[Google drive][79]][[Baidu Cloud][80]]
 
-- **RGBT234**
-	- Paper: Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang.  
-		“RGB-T Object Tracking:Benchmark and Baseline”, ArXiv, 2018. Submitted to Pattern Recognition (PR), 2019. [[paper][81]][[project][82]]
-	- Download Link [[Google drive](https://drive.google.com/open?id=1ouNEptXOgRop4U7zYMK9zAp57SZ2XCNL)]
+### RGBT234
+- Paper: Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang.  
+   “RGB-T Object Tracking:Benchmark and Baseline”, ArXiv, 2018. Submitted to Pattern Recognition (PR), 2019. [[paper][81]][[project][82]]
+- Download Link [[Google drive](https://drive.google.com/open?id=1ouNEptXOgRop4U7zYMK9zAp57SZ2XCNL)]
 
-- **LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking**
-	- Paper: Chenglong Li, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang. 
-	"LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking" 
-	- Link [[Github](https://github.com/BUGPLEASEOUT/LasHeR)]
+### LasHeR
+- Paper: Chenglong Li, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang. 
+   "LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking" 
+- Link [[Github](https://github.com/BUGPLEASEOUT/LasHeR)]
 
 ## Results
-### GTOT
+### GTOT-Results
 	Name       | PR   | SR   | Year | Author     |  Type    | FPS |
 	FANet      | 88.5 | 69.8 | 2018 | Li et al.  | DL-based | 1.3 |
 	SCCF       | 85   | 68.1 | 2018 | Li et al.  | CF-based | 50  |
@@ -286,7 +288,7 @@ Siamese Infrared and Visible Light Fusion Network for RGB-T tracking, arXiv, 202
 	Two stage  | 84.2 | 62.2 | 2018 | Li et al.  |          | 7   |
 	CSR        | 75   | 62   | 2016 | Li et al.  |          |     |
 
-### RGBT210
+### RGBT210-Results
 	Name       | PR   | SR   | Year | Author     |  Type    | FPS |
 	LGMG       | 71.1 | 46.8 | 2018 | Li et al.  |          |  7  |
 	Cross-modal| 69.4 | 46.3 | 2018 | Li et al.  |          |  8  | 
@@ -295,7 +297,7 @@ Siamese Infrared and Visible Light Fusion Network for RGB-T tracking, arXiv, 202
 	Fast RGB-T | 52.9 | 36.6 | 2019 | Zhai et al.| CF-based | 227 |
  
  
-### RGBT234
+### RGBT234-Results
 	Name         | PR   | SR   | Year |Author       |  Type    | FPS |
 	DAPNet       | 76.6 | 53.7 | 2019 | Li et al.   | DL-based |
 	FANet        | 76.4 | 53.2 | 2018 | Li et al.   | DL-based | 1.3 |
@@ -305,7 +307,8 @@ Siamese Infrared and Visible Light Fusion Network for RGB-T tracking, arXiv, 202
 	Multi-domain | 61.7 | 38.7 | 2018 | Zhang et al.| DL-based |     |
 
 ## VOT-RGBT Challenge
-### 2019
+### VOT-RGBT-2020
+### VOT-RGBT-2019
 
 
 [1]:	#Papers

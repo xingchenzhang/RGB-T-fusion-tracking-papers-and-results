@@ -52,6 +52,8 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 5. Chenglong Li, Zhiqiang Xiang, Jin Tang, Bin Luo, Futian Wang.  
 "RGBT Tracking via Noise-Robust Cross-Modal Ranking", IEEE TNNLS, 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9406193/authors#authors)]
 
+6. Chang Guo, Dedong Yang, Chang Li, Peng Song.  
+**Dual Siamese network for RGBT tracking via fusing predicted position maps**, The Visual Computer, 2021.
 
 #### arXiv
 1. Jingchao Peng, Haitao Zhao, Zhengwei Hu, Yi Zhuang, Bofan Zhang.  

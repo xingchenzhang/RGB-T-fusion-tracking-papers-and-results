@@ -55,6 +55,9 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 6. Chang Guo, Dedong Yang, Chang Li, Peng Song.  
 **Dual Siamese network for RGBT tracking via fusing predicted position maps**, The Visual Computer, 2021.
 
+7. Yong Wang, Xian Wei, Xuan Tang, Hao Shen, Huanlong Zhang.  
+**Adaptive Fusion CNN Features for RGBT Object Tracking**, IEEE Transactions on Intelligent Transpotation Systems, 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9426573/authors#authors)]
+
 #### arXiv
 1. Jingchao Peng, Haitao Zhao, Zhengwei Hu, Yi Zhuang, Bofan Zhang.  
 Siamese Infrared and Visible Light Fusion Network for RGB-T tracking, arXiv, 2021. [[Paper](https://arxiv.org/abs/2103.07302)]

@@ -53,10 +53,13 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 "RGBT Tracking via Noise-Robust Cross-Modal Ranking", IEEE TNNLS, 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9406193/authors#authors)]
 
 6. Chang Guo, Dedong Yang, Chang Li, Peng Song.  
-**Dual Siamese network for RGBT tracking via fusing predicted position maps**, The Visual Computer, 2021.
+"Dual Siamese network for RGBT tracking via fusing predicted position maps", The Visual Computer, 2021.
 
 7. Yong Wang, Xian Wei, Xuan Tang, Hao Shen, Huanlong Zhang.  
-**Adaptive Fusion CNN Features for RGBT Object Tracking**, IEEE Transactions on Intelligent Transpotation Systems, 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9426573/authors#authors)]
+"Adaptive Fusion CNN Features for RGBT Object Tracking", IEEE Transactions on Intelligent Transpotation Systems, 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9426573/authors#authors)]
+
+8. iatian Mei, Dongming Zhou, Jinde Cao, Rencan Nie, Yanbu Guo.  
+"HDINet: Hierarchical Dual-sensor Interation Network for RGBT Tracking", IEEE Sensors Journal, 2021.
 
 #### arXiv
 1. Jingchao Peng, Haitao Zhao, Zhengwei Hu, Yi Zhuang, Bofan Zhang.  

@@ -58,7 +58,7 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 7. Yong Wang, Xian Wei, Xuan Tang, Hao Shen, Huanlong Zhang.  
 "Adaptive Fusion CNN Features for RGBT Object Tracking", IEEE Transactions on Intelligent Transpotation Systems, 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9426573/authors#authors)]
 
-8. iatian Mei, Dongming Zhou, Jinde Cao, Rencan Nie, Yanbu Guo.  
+8. Jiatian Mei, Dongming Zhou, Jinde Cao, Rencan Nie, Yanbu Guo.  
 "HDINet: Hierarchical Dual-sensor Interation Network for RGBT Tracking", IEEE Sensors Journal, 2021.
 
 #### arXiv

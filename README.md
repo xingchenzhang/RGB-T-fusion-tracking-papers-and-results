@@ -56,14 +56,21 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 "Dual Siamese network for RGBT tracking via fusing predicted position maps", The Visual Computer, 2021.
 
 7. Yong Wang, Xian Wei, Xuan Tang, Hao Shen, Huanlong Zhang.  
-"Adaptive Fusion CNN Features for RGBT Object Tracking", IEEE Transactions on Intelligent Transpotation Systems, 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9426573/authors#authors)]
+"Adaptive Fusion CNN Features for RGBT Object Tracking", IEEE Transactions on Intelligent Transpotation Systems, 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9426573/authors#authors)]
 
 8. Jiatian Mei, Dongming Zhou, Jinde Cao, Rencan Nie, Yanbu Guo.  
 "HDINet: Hierarchical Dual-sensor Interation Network for RGBT Tracking", IEEE Sensors Journal, 2021.
 
+9. Pengyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang.  
+"Learning Adaptive Attribute-Driven Representation for Real-Time RGB-T Tracking", International Journal of Computer Vision, 2021. [[paper](https://link.springer.com/article/10.1007/s11263-021-01495-3)][[Code](https://github.com/zhang-pengyu/ADRNet)]
+
+
 #### arXiv
 1. Jingchao Peng, Haitao Zhao, Zhengwei Hu, Yi Zhuang, Bofan Zhang.  
 Siamese Infrared and Visible Light Fusion Network for RGB-T tracking, arXiv, 2021. [[Paper](https://arxiv.org/abs/2103.07302)]
+
+2. Xiao Wang, Xiujun Shu, Shiliang Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu.  
+"MFGNet: Dynamic Modality-Aware Filter Generation for RGB-T Tracking", arXiv, 2021. [[Paper](https://arxiv.org/abs/2107.10433)]
 
 ### 2020
 #### Journal
@@ -122,7 +129,7 @@ Siamese Infrared and Visible Light Fusion Network for RGB-T tracking, arXiv, 202
 	 "Robust Multi-modality Anchor Graph-based Label Prediction for RGB-Infrared Tracking", IEEE Transactions on Industrial Informatics, 2019. [[paper][39]]
 
 5. Xingchen Zhang, Ping Ye, Shengyun Peng, Jun Liu, Ke Gong, Gang Xiao  
-	  "SiamFT: An RGB-infrared fusion tracking method via fully convolutional siamese networks." IEEE Access, 2019.[[paper][40]]
+	  "SiamFT: An RGB-infrared fusion tracking method via fully convolutional siamese networks." IEEE Access, 2019.[[Paper](https://ieeexplore.ieee.org/abstract/document/8809774)][[Code](https://github.com/xingchenzhang/SiamFT)]
 	  
 6. Singh, Satbir, Arun Khosla, and Rajiv Kapoor.  
 	  "Object Tracking with a Novel Visual-Thermal Sensor Fusion Method in Template Matching." International Journal of Image, Graphics and Signal Processing, 2019.[[paper][42]]

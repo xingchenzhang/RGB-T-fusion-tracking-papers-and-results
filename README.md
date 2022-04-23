@@ -34,6 +34,32 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 1. Xingchen Zhang, Ping Ye, Henry Leung, Ke Gong, Gang Xiao.  
 	  **Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review**. **Information Fusion**, vol.63, pp.166-187,2020.[[paper][19]]
 
+### 2022
+#### Journal
+1. Xiaohu Liu, Yichuang Luo, Keding Yan, Jianfei Chen, Zhiyong Lie.  
+"CMC2R: Cross‐modal collaborative contextual representation for RGBT tracking". IET Image Processing, 2022.
+
+2. Bin Kang,  Dong Liang, Junxi Mei, Xiaoyang Tan, Quan Zhou, Dengyin Zhang.  
+"Robust RGB-T Tracking via Graph Attention-Based Bilinear Pooling". IEEE Transactions on Neural Networks and Learning Systems, 2022.
+
+3. Yadong Li, Huicheng Lai, Liejun Wang, Zhenhong Jia.  
+"Multibranch Adaptive Fusion Network for RGBT Tracking". IEEE Sensors Journal, 2022.
+
+4. Yong Wang, Xian Wei, Xuan Tang, Jingjing Wu, Jiangxiong Fang.  
+"Response map evaluation for RGBT tracking". Neural Computing and Applications, 2022.
+
+5. Longfeng Shen, Xiaoxiao Wang, Lei Liu, Bin Hou, Yulei Jian, Jin Tang, Bin Luo.  
+"RGBT Tracking based on Cooperative Low-Rank Graph Model". Neurocomputing, 2022.
+
+6. Weidai Xia, Dongming Zhou, Jinde Cao, Yanyu Liu, Ruichao Hou.  
+"CIRNet: An improved RGBT tracking via Cross-Modality Interaction and Re-Identification". Neurocomputing, 2022.
+
+#### Conference
+
+
+#### arXiv
+1. Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu.  
+"A Survey for Deep RGBT Tracking", 2022.
 
 ### 2021
 #### Journal
@@ -282,12 +308,12 @@ Siamese Infrared and Visible Light Fusion Network for RGB-T tracking, arXiv, 202
 
 ### RGBT234
 - Paper: Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang.  
-   “RGB-T Object Tracking:Benchmark and Baseline”, ArXiv, 2018. Submitted to Pattern Recognition (PR), 2019. [[paper][81]][[project][82]]
+   “RGB-T Object Tracking:Benchmark and Baseline”, Pattern Recognition, 2019. [[paper][81]][[project][82]]
 - Download Link [[Google drive](https://drive.google.com/open?id=1ouNEptXOgRop4U7zYMK9zAp57SZ2XCNL)]
 
 ### LasHeR
 - Paper: Chenglong Li, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang. 
-   "LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking" 
+   "LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking", IEEE Transactions on Image Processing, 2021. 
 - Link [[Github](https://github.com/BUGPLEASEOUT/LasHeR)]
 
 ## Results

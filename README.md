@@ -56,7 +56,8 @@ A list of papers, datasets (benchmarks) and results in RGB-T fusion tracking.
 "CIRNet: An improved RGBT tracking via Cross-Modality Interaction and Re-Identification". Neurocomputing, 2022.
 
 #### Conference
-
+1. Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan.  
+"Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline". CVPR, 2022.
 
 #### arXiv
 1. Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu.  
